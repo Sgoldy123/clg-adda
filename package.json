@@ -1,6 +1,6 @@
 {
   "name": "clg_project",
-  "proxy": "http://127.0.0.1:5000",
+  "proxy": "https://clg-add-sas.herokuapp.com",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
